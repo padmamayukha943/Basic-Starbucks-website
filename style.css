@@ -1,0 +1,44 @@
+
+body {
+	background: rgb(58, 235, 220);
+	width: red;
+	width:100px/* background is given as light blue*/
+
+	color: black;/*font color is green*/
+}
+<p class="text-success">.text-success</p>/*class is taken as .test-success*/
+a{
+	color: blue;/*font color is blue*/
+}
+a:link
+{
+	text-decoration:none;
+	color:yellow;
+	}
+
+a:hover
+{
+	color:green;
+}
+
+a:visited
+{
+	color:black;
+	
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 20pt;
+}
+.indent {
+	margin-left: 100px;
+}
+.gap_below {
+	margin-bottom: 25px;
+}
+.greenlink:hover {
+	color:green;
+	background: none;
+}
+

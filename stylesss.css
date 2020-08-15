@@ -1,0 +1,38 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1{
+  background-color: blue; /* it changes the background color of the text to blue */
+  font-family: monospace; /* it changes the fontstyle to monospace */
+  font-size: 25pt; /* it changes the font size to 25pt */
+}body {
+	background: lightblue;/* background is given as light blue*/
+
+	color: green;/*font color is green*/
+}
+<p class="text-success">.text-success</p>/*class is taken as .test-success*/
+a{
+	color: blue;/*font color is blue*/
+}
+a:link
+{
+	text-decoration:none;
+	color:yellow;
+	}
+
+a:hover
+{
+	color:green;
+	background: black;
+}
+
+a:visited
+{
+	color:grey;
+	
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 20pt;
+}
